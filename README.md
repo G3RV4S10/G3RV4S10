@@ -8,7 +8,7 @@
 
 <!-- GitHub Stats from https://github.com/anuraghazra/github-readme-stats -->
 ## 📊 Stats 
-[<img src="https://github-readme-stats.vercel.app/api?username=diego-gervasio&show_icons=true&theme=radical" width="400">](https://github-readme-stats.vercel.app/api?username=diego-gervasio&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&layout=compact&theme=radical) 
+[<img src="https://github-readme-stats.vercel.app/api?username=diego-gervasio&show_icons=true&theme=radical" width="400">](https://github-readme-stats.vercel.app/api?username=diego-gervasio&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-gervasio&layout=compact&theme=radical) 
 
 
 ## <h3 align="left">🧰 Languages and Tools:</h3>
