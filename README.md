@@ -5,6 +5,8 @@
 - 🤵 As far back as I can remember, I always wanted to be a ~~gangster~~ tech guy.
 - 📫 How to reach me: **diegogervasio2001@gmail.com**
 
+## When I have some free time, I'll add my projects here. Thanks!
+
 ### Social Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-gervasio-de-souza-934684163/)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/Diegok47x)
