@@ -4,6 +4,10 @@
 - 🧠 Currently, I'm learning about virtualization, DevOps, and cloud services.
 - 🤵 As far back as I can remember, I always wanted to be a tech guy. - Reference to *Goodfellas*"
 - 📫 How to reach me **diegogervasio2001@gmail.com**
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/diego-gervasio-de-souza-934684163/)
+[![X](https://upload.wikimedia.org/wikipedia/commons/a/a5/X-logo.png)](https://x.com/Diegok47x)
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_logo_2022.svg)](https://www.instagram.com/diegok47x/)
+
 
 
 <!-- GitHub Stats from https://github.com/anuraghazra/github-readme-stats -->
