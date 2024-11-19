@@ -4,7 +4,7 @@
 - 🧠 Currently, I'm learning about virtualization, DevOps, and cloud services.
 - 🤵 As far back as I can remember, I always wanted to be a ~~gangster~~ tech guy.
 - 📫 How to reach me: **diegogervasio2001@gmail.com**
-------------------------------------------------------------------------------------
+
 ## When I have some free time, I'll add my projects here. Thanks!
 
 ### Social Links:
