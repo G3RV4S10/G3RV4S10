@@ -2,7 +2,7 @@
 <!-- "As far back as I can remember, I always wanted to be a tech guy." - Inspired by *Goodfellas* -->
 - 🧑‍💻 I'm a Computer Engineering student in my 7th semester at UniCarioca | Carioca University Center.
 - 🧠 Currently, I'm learning about virtualization, DevOps, and cloud services.
-- 🤵 As far back as I can remember, I always wanted to be a ~~gangster~~ tech guy.
+- 🤵 As far back as I can remember, I always wanted to be a <!-- ~~gangster~~ --> tech guy.
 - 📫 How to reach me: **diegogervasio2001@gmail.com**
 
 ## When I have some free time, I'll add my projects here. Thanks!
