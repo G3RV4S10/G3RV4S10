@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-gervasio-de-souza-934684163/)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/Diegok47x)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/diegok47x/)
-
+<! -- dwadwad -->
 ---
 
 <!-- GitHub Stats from https://github.com/anuraghazra/github-readme-stats -->
