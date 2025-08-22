@@ -1,70 +1,130 @@
-## Hi, I'm Diego Gervasio
-<!-- "As far back as I can remember, I always wanted to be a tech guy." - Inspired by *Goodfellas* -->
-- 🧑‍💻 I'm a Computer Engineering student in my 7th semester at UniCarioca | Carioca University Center.
-- 🧠 Currently, I'm learning about virtualization, DevOps, and cloud services.
-- 🤵 As far back as I can remember, I always wanted to be a <!-- ~~gangster~~ --> tech guy.
-- 📫 How to reach me: **diegogervasio2001@gmail.com**
+<div align="center">
 
-## When I have some free time, I'll add my projects here. Thanks!
+# 👋 Hi, I'm Diego Gervasio
 
-### Social Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-gervasio-de-souza-934684163/)
-<!-- [![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/Diegok47x)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/diegok47x/)
- -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=4000&pause=1000&color=C0C0C0&background=0D1117&center=true&vCenter=true&width=600&height=70&lines=Computer+Engineering+Student;DevOps+%26+Cloud+Enthusiast;Infrastructure+Specialist;Always+Learning!" />
+</p>
+
+</div>
+
 ---
 
-<!-- GitHub Stats from https://github.com/anuraghazra/github-readme-stats -->
-## 📊 Stats and progress
-[<img src="https://github-readme-stats.vercel.app/api?username=G3RV4S10&show_icons=true&theme=radical" width="400">](https://github-readme-stats.vercel.app/api?username=G3RV4S10&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G3RV4S10&layout=compact&theme=radical)  <!-- Meme Hacker -->
+## 🧑‍💻 **Sobre Mim**
+
+Sou estudante de **Engenharia da Computação** (7º período na UniCarioca) e atuo como **Estagiário em Virtualização na DATAPREV**.  
+Tenho paixão por **infraestrutura, cloud computing e automação**, sempre buscando melhorar processos e aprender novas tecnologias.  
+
+- 📍 Localização: Rio de Janeiro, BR  
+- 🎓 Foco atual: Virtualização, Cloud (AWS / OpenStack), Containers e DevOps  
+- 🛠️ Experiência com: Redes, Automação, Monitoramento e Observabilidade  
+- 🚀 Objetivos futuros: Cloud Architecture | DevOps Engineering | Infrastructure as Code  
+
+
+
+## 🛠️ **Tech Stack**
+
+<div align="center">
+
+### ☁️ **Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🖥️ **Systems & Monitoring**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+### 💻 **Development & Automation**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### 🗄️ **Databases & Web**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+### 🔧 **Tools & Workflow**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 📈 **GitHub Performance & Analytics**
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=G3RV4S10&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=G3RV4S10&show_icons=true&count_private=true&hide_border=false&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_color=444444" alt="Diego Gervasio github stats" /> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3RV4S10&layout=compact&hide_border=false&title_color=ffffff&text_color=9f9f9f&bg_color=151515&border_color=444444" />
+</div>
+
+---
+ 
+
+## 🎯 **Projetos em Destaque**
+
+<div align="center">
+
+*🚧 Em breve! Estarei adicionando meus projetos principais aqui*
+
+*Stay tuned for awesome infrastructure and cloud projects!* 🚀
 
 </div>
 
 
-## <h3 align="left">🧰 Languages and Tools:</h3>
+---
+## 🎓 **Certificações & Aprendizado**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" height="40" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo"  />
+- 🔄 **Em andamento:** AWS Cloud Practitioner
+- 📚 **Estudando:** DevOps practices e Infrastructure as Code
+- 🎯 **Próximos objetivos:** AWS Solutions Architect Associate
+- 💡 **Sempre explorando:** Novas tecnologias em cloud e automação
+
+---
+
+## 📫 **Vamos Conectar!**
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-gervasio-de-souza-934684163/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegogervasio2001@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/G3RV4S10)
+
+**💼 Aberto para oportunidades de estágio e trainee em:**
+- 🏗️ **Infraestrutura & Redes**
+- ☁️ **Cloud Computing**  
+- ⚙️ **DevOps & Automação**
+- 🔧 **Site Reliability Engineering**
+
 </div>
 
-###
+
+
+<div align="center">
+  
+### 🌟 **"Continuous learning is the key to staying relevant in tech"** 🌟
+
+![](https://komarev.com/ghpvc/?username=G3RV4S10&color=79ff97&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&width=100%&fontColor=fff&animation=twinkling"/>
+</div>
