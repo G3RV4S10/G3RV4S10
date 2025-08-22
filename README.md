@@ -111,6 +111,7 @@ Tenho paixão por **infraestrutura, cloud computing e automação**, sempre busc
 ### 🌟 **"Continuous learning is the key to staying relevant in tech"** 🌟
 
 ![](https://komarev.com/ghpvc/?username=G3RV4S10&color=79ff97&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/G3RV4S10?color=79ff97&style=flat-square&label=Followers)](https://github.com/G3RV4S10)
 
 </div>
 
@@ -127,9 +128,6 @@ Tenho paixão por **infraestrutura, cloud computing e automação**, sempre busc
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3RV4S10&layout=compact&hide_border=false&title_color=ffffff&text_color=9f9f9f&bg_color=151515&border_color=444444" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=G3RV4S10&bg_color=151515&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=false" alt="contribution graph">
-</div>
 
 ---
 
