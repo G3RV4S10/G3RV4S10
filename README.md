@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=4000&pause=1000&color=C0C0C0&background=0D1117&center=true&vCenter=true&width=600&height=70&lines=Computer+Engineering+Student;DevOps+%26+Cloud+Enthusiast;Infrastructure+Specialist;Always+Learning!" />
 </p>
-
 </div>
 
 ---
@@ -15,12 +14,18 @@
 Sou estudante de **Engenharia da Computação** (7º período na UniCarioca) e atuo como **Estagiário em Virtualização na DATAPREV**.  
 Tenho paixão por **infraestrutura, cloud computing e automação**, sempre buscando melhorar processos e aprender novas tecnologias.  
 
-- 📍 Localização: Rio de Janeiro, BR  
-- 🎓 Foco atual: Virtualização, Cloud (AWS / OpenStack), Containers e DevOps  
-- 🛠️ Experiência com: Redes, Automação, Monitoramento e Observabilidade  
-- 🚀 Objetivos futuros: Cloud Architecture | DevOps Engineering | Infrastructure as Code  
+
+**🎯 Especialização atual:**
+- 🔧 Virtualização com VMware
+- ☁️ Cloud Computing (AWS, OpenStack)  
+- 🐳 Containerização (Docker, Kubernetes)
+- ⚙️ DevOps & Automação (Ansible, Terraform)
+- 📊 Monitoramento (Zabbix, Grafana, Prometheus)
+
+**🚀 Objetivos futuros:** Cloud Architecture | DevOps Engineering | Infrastructure as Code
 
 
+---
 
 ## 🛠️ **Tech Stack**
 
@@ -61,20 +66,6 @@ Tenho paixão por **infraestrutura, cloud computing e automação**, sempre busc
 </div>
 
 ---
-
-## 📈 **GitHub Performance & Analytics**
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=G3RV4S10&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph"  />
-</div>
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=G3RV4S10&show_icons=true&count_private=true&hide_border=false&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_color=444444" alt="Diego Gervasio github stats" /> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3RV4S10&layout=compact&hide_border=false&title_color=ffffff&text_color=9f9f9f&bg_color=151515&border_color=444444" />
-</div>
-
----
- 
 
 ## 🎯 **Projetos em Destaque**
 
@@ -121,6 +112,23 @@ Tenho paixão por **infraestrutura, cloud computing e automação**, sempre busc
 
 ![](https://komarev.com/ghpvc/?username=G3RV4S10&color=79ff97&style=flat-square&label=Profile+Views)
 
+</div>
+
+---
+
+## 📈 **GitHub Performance & Analytics**
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=G3RV4S10&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=G3RV4S10&show_icons=true&count_private=true&hide_border=false&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_color=444444" alt="Diego Gervasio github stats" /> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3RV4S10&layout=compact&hide_border=false&title_color=ffffff&text_color=9f9f9f&bg_color=151515&border_color=444444" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=G3RV4S10&bg_color=151515&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=false" alt="contribution graph">
 </div>
 
 ---
