@@ -123,12 +123,6 @@ Tenho paixão por **infraestrutura, cloud computing e automação**, sempre busc
   <img src="https://streak-stats.demolab.com?user=G3RV4S10&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph"  />
 </div>
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=G3RV4S10&show_icons=true&count_private=true&hide_border=false&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_color=444444" alt="Diego Gervasio github stats" /> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3RV4S10&layout=compact&hide_border=false&title_color=ffffff&text_color=9f9f9f&bg_color=151515&border_color=444444" />
-</div>
-
-
 ---
 
 <div align="center">
