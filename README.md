@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Diego Gervasio
+# 👋 Hi, I'm Gervasio
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=4000&pause=1000&color=C0C0C0&background=0D1117&center=true&vCenter=true&width=600&height=70&lines=Computer+Engineering+Student;DevOps+%26+Cloud+Enthusiast;Infrastructure+Specialist;Always+Learning!" />
