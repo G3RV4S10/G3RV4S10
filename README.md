@@ -118,4 +118,10 @@ Tenho paixão por **infraestrutura, cloud computing e automação**, sempre busc
 ---
 
 
+## 📈 **GitHub Performance & Analytics**
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=G3RV4S10&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph"/>
+</div>
+
+---
